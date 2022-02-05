@@ -1,3 +1,3 @@
 # Tree Data structure
 
-Trees coding solutions
+Trees coding solutions in javascript
